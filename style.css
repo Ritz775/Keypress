@@ -1,0 +1,17 @@
+#myCanvas {
+  border-style: ridge;
+  border-width: 20px;
+  background-color: beige;
+}
+
+#sl {
+  color: red;
+}
+
+#nb {
+  color: maroon;
+}
+
+#row {
+  font-size: 20;
+}
